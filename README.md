@@ -1,5 +1,5 @@
-# Hackarena-Final
-UX-Auditor Project for HackArena
+
+UX-Auditor Project
 # UX Auditor — Project Documentation
 
 ## 1. Project Overview
